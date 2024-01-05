@@ -1,0 +1,64 @@
+.Hello{
+    background-color: aquamarine;
+    text-align: center;
+    border: 100px;
+    border-radius: 100px;
+    /* border-left: 100px; */
+    width: 500px;
+}
+article section h4 , header h1{
+    color: rgb(220, 3, 3);
+
+
+}
+nav ul li{
+    color: red;
+    display: inline;
+    margin-right: 10px;
+    
+    
+}
+nav li> a{
+    text-decoration: none;
+
+
+}
+div{
+    text-align: center;
+}
+
+
+
+.blogs{
+    background-color: blanchedalmond;
+}
+.ppp{
+    background-color: blueviolet;
+    color: white;
+}
+.articall{
+    background-color: rgb(63, 63, 194);
+    
+    color: white;
+}
+
+
+/* end blog.htmlend blog.htmlend blog.htmlend blog.htmlend blog.html */
+
+
+label{
+    display: block;
+    margin-bottom: 15px;
+}
+
+
+textarea{
+    height: 50px;
+    margin: 15px;
+}
+.reset{
+    margin: 5px;
+}
+
+
+
