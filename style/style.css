@@ -59,6 +59,13 @@ textarea{
 .reset{
     margin: 5px;
 }
-
+td, th{
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+    width: 200px;
+}
 
 
